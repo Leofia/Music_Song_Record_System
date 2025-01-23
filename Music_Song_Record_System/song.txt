@@ -1,0 +1,10 @@
+Iki keklik;Erkan Ogur;1001;Turk Halk;1996
+Geceler;Ezel;1002;Turk Rap;2017
+Buklum buklum;Sezen Aksu;1003;Turk Indie;1993
+Gamzedeyim Deva Bulmam;Kudsi Erguner Ensemble;1004;Turk Halk;1980
+Deniz Ustu Kopurur;Cem Karaca;1005;Turk Rock;1974
+Cokertme;Tolga Candar;1006;Turk Rock;2002
+Aman Aman;Duman;1007;Turk Rock;2004
+Dursun Zaman;Manga;1008;Turk Metal;2004
+Kara Sevda;Baris Manco;1009;Turk Rock;1989
+Ah Bir Atas Ver;Cem Adrian;1010;Turk Halk;2008
